@@ -18,6 +18,8 @@ public class Cmfz666ApplicationTests {
         System.out.println("===3===");
 
         System.out.println("===我是小黑===");
+
+        System.out.println("===我是小黑我写了一行===");
         
     }
 
