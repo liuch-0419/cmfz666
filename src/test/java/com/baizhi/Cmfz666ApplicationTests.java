@@ -25,4 +25,11 @@ public class Cmfz666ApplicationTests {
         
     }
 
+    public void testBanner(){
+        int a=1;
+        int b=2;
+        int i=a+b;
+        System.out.println(i);
+    }
+
 }
