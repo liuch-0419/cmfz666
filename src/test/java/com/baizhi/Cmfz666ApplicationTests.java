@@ -28,9 +28,6 @@ public class Cmfz666ApplicationTests {
     public void testBanner(){
         String str="hello";
         System.out.println(str);
-    }
-
-    public void testBanner(){
         int a=1;
         int b=2;
         int i=a+b;
